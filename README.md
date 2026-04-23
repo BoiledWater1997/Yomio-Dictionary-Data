@@ -5,6 +5,7 @@ This repository contains the dictionary dataset used in the Yomio mobile applica
 ## Overview
 
 The dataset is a processed and extended version of Japanese dictionary data, designed for efficient use in a mobile learning app.
+The dataset is compressed using gzip. Decompress before use.
 
 ## Sources
 
